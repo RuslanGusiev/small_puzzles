@@ -1,0 +1,1 @@
+Small mathematical tasks from https:\\projecteuler.net
